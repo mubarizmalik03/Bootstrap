@@ -1,0 +1,16 @@
+.paralex {
+  background-image: url(./images/nathan-da-silva-k-rKfqSm4L4-unsplash.jpg);
+  height: 10rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+}
+footer {
+  background-color: #5a189a;
+}
+.navbar {
+  background-color: #5a189a;
+}
+button {
+  background-color: #240046;
+}
